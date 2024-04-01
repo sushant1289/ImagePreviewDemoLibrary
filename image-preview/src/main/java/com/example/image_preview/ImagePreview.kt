@@ -26,7 +26,7 @@ fun ImagePreview(
             contentDescription = contentDescription,
             modifier = Modifier
                 .clip(CircleShape)
-                .size(20.dp)
+                .size(200.dp)
         )
     }
 }
